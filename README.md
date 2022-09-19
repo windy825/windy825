@@ -14,3 +14,12 @@
   22.06 ~ 22.06   자율주행 장애물 레이스 (Microsoft Airsim)<br>
   22.07 ~ 22.08   WEB-RTC 소개팅 (react-native : 하이브리드 앱 담당)<br>
   22.08 ~ keep... 자율주행 Morai-simulator (제어| 판단 담당)<br>
+
+
+
+MEMO
+In : 10/10
+sqld : 10/10
+li_ma 2 : 10/24
+
+SCSA / S WINTER CAMP / H MOBIS
