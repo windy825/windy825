@@ -12,5 +12,4 @@ MEMO
 In : 10/10
 sqld : 10/10
 li_ma 2 : 10/24
-
-SCSA / S WINTER CAMP / H MOBIS
+Morai : 12 or 1
