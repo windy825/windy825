@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=임진현's%20보물창고%20입니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=130&section=header&text=welcome!!&fontSize=50)
 
+```
 ### 자율주행 분야 연구 및 프로젝트를 진행중이고, 
 ### 34살 전까진 자율주행 분야를 발판삼아,
 ### 자율비행 드론을 연구하는것이 목표인
 ### 임진현 입니다.
+```
 
 :rocket: 진행한 프로젝트
 
