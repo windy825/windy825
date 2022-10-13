@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=임진현's%20저장소&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=임진현's%20보물창고%20입니다&fontSize=90)
 
 ### 자율주행 분야 연구 및 프로젝트를 진행중이고, 
 ### 34살 전까진 자율주행 분야를 발판삼아,
