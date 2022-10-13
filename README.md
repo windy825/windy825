@@ -42,7 +42,7 @@
 
 ---
 
-### :phone: Connect
+### :phone: contect
 
 **:car: 010 - 4193 - 6118**
 
