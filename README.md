@@ -41,8 +41,8 @@
 <br>
 
 
-## :phone: contect
+## :car: contect
 
-**:car: 010 - 4193 - 6118**
+**:phone: 010 - 4193 - 6118**
 
 **:email: windy82581@gmail.com**
