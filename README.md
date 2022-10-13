@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=130&section=header&text=welcome!!&fontSize=50)
 
-#### 자율주행 분야 연구 및 프로젝트를 진행중이고, 34살 전까진 자율주행 분야를 발판삼아,
+#### 자율주행 분야 연구 및 프로젝트를 진행중이고, 자율주행 분야를 발판삼아,
 #### 자율비행 드론을 연구하는것이 목표인 임진현 입니다.
 
 
@@ -13,9 +13,3 @@
   22.08 ~ 22.10   자율주행 택시              (주행 | 단계별 통합 | 팀장)<br>
   22.10 ~ 22.11   SVM(Surround View Monitor) (2D, 3D | 팀장)
 
-
-MEMO
-In : 10/10
-sqld : 10/10
-li_ma 2 : 10/24
-Morai : 12 or 1
