@@ -43,7 +43,7 @@
 |                            제 목                             |                            목 적                             | 비 고 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :---: |
 |          [Linux](https://github.com/windy825/Linux)          | ROS의 기반 OS 이해를 심화하고, 자율주행의 인지, 판단, 제어 파트 통합을 원활하게 하기 위해서 |       |
-|     [ROS](https://github.com/windy825/ROS-with-Solution)     |        로봇을 가지고 놀려면! 로봇OS 부터 제대로 하자!        |       |
+|     [ROS](https://github.com/windy825/ROS-with-Solution)     |        로봇을 더 재밌게 가지고 놀려면! 로봇OS 부터 제대로 하자!        |       |
 | [자율주행의 기반 지식](https://github.com/windy825/autonomous-driving-basics) | 자율주행 시스템은 다양한 도메인이 합쳐진 융합 기술이므로, 평생동안 진행할 주제 |       |
 
 <br>
