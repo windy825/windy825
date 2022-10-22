@@ -28,6 +28,7 @@
 
 
 
+
 #### [1] 프로그래밍 언어
 
 |    대 상     | 활용 능력 및 이해도 |                          자체 평가                           |
@@ -58,13 +59,13 @@
 
 # :book: 2. 파밍중인 기술
 
-|                            제 목                             |                            목 적                             | 비 고  |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----: |
-|        ~~[Linux](https://github.com/windy825/Linux)~~        | ~~ROS의 기반 OS 이해를 심화하고, 자율주행의 인지, 판단, 제어 파트 통합을 원활하게 하기 위해~~ | 비활성 |
-|     [ROS](https://github.com/windy825/ROS-with-Solution)     |   로봇을 더 재밌게 가지고 놀려면! 로봇OS 부터 제대로 하자!   |        |
-| [자율주행 도메인 연구](https://github.com/windy825/autonomous-driving-basics) | 자율주행 시스템은 다양한 도메인이 합쳐진 융합 기술이므로, 평생동안 진행할 주제 |        |
-|       [language](https://github.com/windy825/language)       |                         C++, Python                          |        |
-| [Computer Graphics](https://github.com/windy825/SVM/tree/master/Computer%20Graphics) |               버드아이 뷰 및 openGL 3D 뷰 연구               |        |
+|                            제 목                             |                            목 적                             | 비 고 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :---: |
+|       [발표](https://github.com/windy825/presentation)       |               지식 이해와 자아를 실현하는 수단               |       |
+|     [ROS](https://github.com/windy825/ROS-with-Solution)     |   로봇을 더 재밌게 가지고 놀려면! 로봇OS 부터 제대로 하자!   |       |
+| [자율주행 도메인 연구](https://github.com/windy825/autonomous-driving-basics) | 자율주행 시스템은 다양한 도메인이 합쳐진 융합 기술이므로, 평생동안 진행할 주제 |       |
+|       [language](https://github.com/windy825/language)       |                         C++, Python                          |       |
+| [Computer Graphics](https://github.com/windy825/SVM/tree/master/Computer%20Graphics) |               버드아이 뷰 및 openGL 3D 뷰 연구               |       |
 
 <br>
 
