@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=130&section=header&text=welcome%20to%20진현's%20연구실&fontSize=50)
-
-<br>
-
 ### 안녕하세요!
 
 ### 저는 완성차의 자율주행 시스템 연구 및 프로젝트를 진행하고,
