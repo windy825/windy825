@@ -1,5 +1,6 @@
 ### 시스템 연구 및 개발
-### autonomous driving system |  Urban Air Mobility
+### - autonomous driving system 
+### - Urban Air Mobility
 
 <br>
 
