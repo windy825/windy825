@@ -6,7 +6,7 @@
 
 # :hammer: 1. 기술 스택
 
-<details> <summary>활용 능력 및 이해도 별점 기준</summary>
+<details> <summary>상세</summary>
 <div>
 ★☆☆☆☆ : 기본적인 흐름을 알지만 주석이 있어야 내용 이해 가능
 <br><br>
@@ -51,15 +51,14 @@
 </details>
 <br>
 
-# :book: 2. 파밍중인 기술
+# :book: 2. Current
 
 |                            제 목                             |                            목 적                             | 비 고 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :---: |
-|       [발표](https://github.com/windy825/presentation)       |               지식 이해와 자아를 실현하는 수단               |       |
-|     [ROS](https://github.com/windy825/ROS-with-Solution)     |   로봇을 더 재밌게 가지고 놀려면! 로봇OS 부터 제대로 하자!   |       |
-| [자율주행 도메인 연구](https://github.com/windy825/autonomous-driving-basics) | 자율주행 시스템은 다양한 도메인이 합쳐진 융합 기술이므로, 평생동안 진행할 주제 |       |
+|     [ROS](https://github.com/windy825/ROS-with-Solution)     |   로봇OS   |       |
+| [자율주행 도메인 연구](https://github.com/windy825/autonomous-driving-basics) | 자율주행 시스템 연구 |       |
 |       [language](https://github.com/windy825/language)       |                         C++, Python                          |       |
-| [Computer Graphics](https://github.com/windy825/SVM/tree/master/Computer%20Graphics) |               버드아이 뷰 및 openGL 3D 뷰 연구               |       |
+| [Computer Graphics](https://github.com/windy825/SVM/tree/master/Computer%20Graphics) |               Computer vision with open cv |  |
 
 <br>
 
@@ -71,10 +70,10 @@
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: | :--------------------: |
 | 22.10 ~ 진행중 |   [기업연계 SVM 프로젝트](https://github.com/windy825/SVM)   |   2D 및 2.5D 버드아이 뷰<br /> Camera calibration    |   팀장 / 발표    |          6 인          |
 | 22.08 ~ 22.10  |                      [자율주행 무인 택시](https://github.com/windy825/Alpah_car)                      |             3차원 맵 / 판단 및 제어  / 단계 통합             |   팀장 / 발표    |          6 인          |
-| 22.07 ~ 22.08  |                        [운동 소개팅 앱, 나와!](https://github.com/windy825/web-rtc-react-native-pjt)                        |                하이브리드 앱 / API / Web-rtc                 |  프론트 파트장   |          6 인          |
+
 | 22.06 ~ 22.06  | [자율주행 장애물 레이스](https://github.com/windy825/Airsim-car-driving-Project) |              2차원 맵 / 장애물 판단 / 경로 판단              |       팀장       |          2 인          |
-| 22.05 ~ 22.05  |  [영화 추천 웹 D-FLEX](https://github.com/windy825/D-FLEX)   |                          장고 / API                          |   팀장 / 발표    |          2 인          |
-| 22.02 ~ 22.05  |  [파이썬 스터디](https://github.com/windy825/Python_study)   | 알고리즘 연구 및 강의 / <br />기획 및 운영 / <br />계획 및 결과 산출물 보고 | 대표 팀장 / 발표 | 15 인<br />(5명씩 3팀) |
+
+
 
 <br>
 
