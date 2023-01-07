@@ -3,5 +3,4 @@
 
 <br>
 <br>
-(AD)[https://github.com/windy825/autonomous-driving-basics]
-
+[AD](https://github.com/windy825/autonomous-driving-basics)
